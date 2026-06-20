@@ -1,0 +1,22 @@
+{
+    "version": "0.7.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/spxrogers/agentsync/releases/download/v0.7.1/agentsync_0.7.1_windows_amd64.zip",
+            "bin": [
+                "agentsync.exe"
+            ],
+            "hash": "49e637da976c011d1258a5460638c767cb23d277a532829f2f78be2d00791940"
+        },
+        "arm64": {
+            "url": "https://github.com/spxrogers/agentsync/releases/download/v0.7.1/agentsync_0.7.1_windows_arm64.zip",
+            "bin": [
+                "agentsync.exe"
+            ],
+            "hash": "da2a5dd1ebaa3b0b234cd91c678abc06988d29dc2a3be0f7c2d5ed6beea32a4d"
+        }
+    },
+    "homepage": "https://github.com/spxrogers/agentsync",
+    "license": "MIT",
+    "description": "Centrally manage AI coding-agent configurations."
+}
