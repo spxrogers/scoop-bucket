@@ -1,19 +1,19 @@
 {
-    "version": "0.7.1",
+    "version": "0.7.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/spxrogers/agentsync/releases/download/v0.7.1/agentsync_0.7.1_windows_amd64.zip",
+            "url": "https://github.com/spxrogers/agentsync/releases/download/v0.7.2/agentsync_0.7.2_windows_amd64.zip",
             "bin": [
                 "agentsync.exe"
             ],
-            "hash": "49e637da976c011d1258a5460638c767cb23d277a532829f2f78be2d00791940"
+            "hash": "faaa7e625eed094c280608cb8d4f7bdd588401e42a1d2be12c570c9412a62bab"
         },
         "arm64": {
-            "url": "https://github.com/spxrogers/agentsync/releases/download/v0.7.1/agentsync_0.7.1_windows_arm64.zip",
+            "url": "https://github.com/spxrogers/agentsync/releases/download/v0.7.2/agentsync_0.7.2_windows_arm64.zip",
             "bin": [
                 "agentsync.exe"
             ],
-            "hash": "da2a5dd1ebaa3b0b234cd91c678abc06988d29dc2a3be0f7c2d5ed6beea32a4d"
+            "hash": "aa1bd5cf7b19777f3128e8c24d4036ac0a91c3894edf35570dd683b72a77cf83"
         }
     },
     "homepage": "https://github.com/spxrogers/agentsync",
