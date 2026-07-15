@@ -7,7 +7,7 @@ projects — install command-line tools on Windows with `scoop`.
 
 ```powershell
 scoop bucket add spxrogers https://github.com/spxrogers/scoop-bucket
-scoop install agentsync
+scoop install <project>
 ```
 
 ## What's in the bucket
